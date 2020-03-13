@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iekiniema.daynys.com/sitemap.xml
